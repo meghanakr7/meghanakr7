@@ -62,14 +62,6 @@
 - **LinkedIn:** [linkedin.com/in/meghana-koramutla-ramesh](https://linkedin.com/in/meghana-koramutla-ramesh)
 - **GitHub:** [github.com/meghanakr7](https://github.com/meghanakr7)
 
-## 📊 GitHub Stats
-
-![Meghana's GitHub stats](https://github-readme-stats.vercel.app/api?username=meghanakr7&show_icons=true&theme=dracula&count_private=true&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanakr7&layout=compact&theme=dracula&langs_count=8&cache_seconds=86400)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meghanakr7&theme=dracula&hide_border=true&cache_seconds=86400)
-
 ## 🤝 Let's Connect
 
 I'm always open to new opportunities, collaborations, and ideas. Feel free to reach out if you'd like to work together or just want to chat!
