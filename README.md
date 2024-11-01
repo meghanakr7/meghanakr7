@@ -23,7 +23,7 @@
 
 
 ### Software Development Intern
-![Intern](https://img.shields.io/badge/Internship-00C4CC?style=for-the-badge&logo=hackthebox&logoColor=white)
+![MicroFocus](https://img.shields.io/badge/OpenText-00579e?style=for-the-badge&logo=opentext&logoColor=white)
 
 ## 🛠️ Skills
 
