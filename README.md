@@ -12,18 +12,39 @@
 ## 💼 Work Experience
 
 - **Research Assistant** at [Geoweaver](https://geoweaver.org)  
-  Developed automation testing cases using Cypress and worked on a wildfire project involving an Adversarial AI model for fact-checking the reliability and accuracy of wildfire chatbot answers.  
+  • Assisted 120+ students in developing and debugging C/C++/Python programs for custom firewalls and packet filtering in FreeBSD, resulting in a 90% success
+    rate in implementing functional divert sockets.
+  • Mentored students through the creation of Certificate Authorities (CAs) and SSL certificates using OpenSSL, improving practical comprehension of Public Key
+    Infrastructure (PKI) concepts by 85%.
+  • Provided in-depth support for implementing transparent IP-level encryption using RC4 and MD5-based authentication, resulting in 85% accuracy in handling se-
+    cure data transmission in FreeBSD virtual machines.
   **Tech Stack:** Spring Boot, Java, JavaScript, HTML, CSS
 
 - **Teaching Assistant**  
-  Assisting in teaching core computer science courses, helping students with lab work and assignments, and grading exams.
-  
-### Software Developer at OpenText
-![OpenText](https://img.shields.io/badge/OpenText-00579e?style=for-the-badge&logo=opentext&logoColor=white)
+   • Worked under the professor Dr. Ziheng Sun at the Center for Spatial Information Science and Systems (CSISS) on the Geoweaver Project, a NASA-funded open-
+    source tool for workflow management.
+  • Monitored website traffic and user behavior using Google Analytics, leading to a 20% increase in usability insights by analyzing patterns of user interaction with
+    the Geoweaver web application.
+  • Designed a responsive user interface for the Geoweaver Project using Spring Boot, reducing page load times by 30% and enhancing user engagement.Set up a
+    robust Cypress testing framework for the Geoweaver Project, improving test coverage and reducing manual testing effort by 40%.
 
+### Software Developer at MicroFocus  ![MicroFocus](https://img.shields.io/badge/OpenText-00579e?style=for-the-badge&logo=opentext&logoColor=white)
+• Developed landing pages and implemented core features for the Privileged Account Manager (PAM) product, addressing 95% of reported defects and contribut-
+ing to enhanced user experience through effective coordination with cross-functional teams
+• Migrated three legacy web pages to a modern platform within a 3-month deadline, collaborating with UI designers and QA testers to ensure high-quality deliv-
+erables. Integrated Apache Guacamole clipboard functionality to enable seamless clipboard operations across remote web sessions, ensuring compatibility with
+multiple browsers and double-byte character support.
+• Designed and implemented a robust backup and restore process, leveraging Python scripts to ensure 100% data preservation and integrity.Enabled seamless restora-
+tion by transferring backup data to designated Build folders, ensuring smooth reinstatement on the same host machine.
 
-### Software Development Intern
-![MicroFocus](https://img.shields.io/badge/OpenText-00579e?style=for-the-badge&logo=opentext&logoColor=white)
+### Software Development Intern  ![MicroFocus](https://img.shields.io/badge/OpenText-00579e?style=for-the-badge&logo=opentext&logoColor=white)
+• Designed and implemented a hybrid access application enabling seamless connectivity across diverse networks without requiring a traditional VPN. Leveraged
+C for low-level back-end optimization and Python for scripting and API development, achieving a 30% reduction in latency and a 20% improvement in data trans-
+fer speed.
+• Implemented robust user authentication mechanisms using SSL/TLS certificates, ensuring encrypted communication and secure identity verification.Developed
+a dynamic front-end interface leveraging HTML5, JavaScript, and Angular, enhancing usability and ensuring cross-browser compatibility.
+• Developed monitoring scripts to track system performance, error rates, and connection reliability, reducing downtime by 25%. Used Postman for API testing and
+validation, ensuring seamless integration between front-end and back-end components.
 
 ## 🛠️ Skills
 
