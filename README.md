@@ -12,13 +12,13 @@
 ## 💼 Work Experience
 
 
-- **Research Assistant** at [Geoweaver](https://geoweaver.org)  
+- **Research Assistant** at [Geoweaver](https://geoweaver.org)
   - Assisted 120+ students in developing and debugging C/C++/Python programs for custom firewalls and packet filtering in FreeBSD, resulting in a 90% success rate in implementing functional divert sockets.  
   - Mentored students through the creation of Certificate Authorities (CAs) and SSL certificates using OpenSSL, improving practical comprehension of Public Key Infrastructure (PKI) concepts by 85%.  
   - Provided in-depth support for implementing transparent IP-level encryption using RC4 and MD5-based authentication, resulting in 85% accuracy in handling secure data transmission in FreeBSD virtual machines.  
   - **Tech Stack:** Spring Boot, Java, JavaScript, HTML, CSS  
 
-- **Teaching Assistant**  
+- **Teaching Assistant**
   - Worked under the professor Dr. Ziheng Sun at the Center for Spatial Information Science and Systems (CSISS) on the Geoweaver Project, a NASA-funded open-source tool for workflow management.  
   - Monitored website traffic and user behavior using Google Analytics, leading to a 20% increase in usability insights by analyzing patterns of user interaction with the Geoweaver web application.  
   - Designed a responsive user interface for the Geoweaver Project using Spring Boot, reducing page load times by 30% and enhancing user engagement.  
